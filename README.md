@@ -27,6 +27,8 @@ This project displays a clean monthly calendar view with navigation controls and
 ##🎥 Live Demo (Optional)
 
 You can add a GIF demo like this:
+https://github.com/user-attachments/assets/c6f21bdc-f137-4805-8d01-6934613d3e79
+
 
 
 

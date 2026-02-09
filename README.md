@@ -37,7 +37,7 @@ You can add a GIF demo like this:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Digital-Calendar.git
+https://github.com/upeka200163/Digital-Calendar.git
 
 
 
